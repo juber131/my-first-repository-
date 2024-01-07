@@ -1,1 +1,77 @@
-# my-first-repository-
+.header-image {
+    background: red;
+    width: 700px;
+    height: 650px;
+    padding-left: 900px;
+    padding-top: 150px;
+    background-image: url('images/banner/banner3.png');
+    background-repeat: no-repeat;
+    margin: 10px 100px;
+}
+
+
+.box {
+    width: 500px;
+    height: 200px;
+    text-align: right;
+}
+
+.header-tittle {
+    color: #FFF;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+
+.header-description {
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    /* 162.5% */
+}
+
+button {
+    color: #005FAC;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px;
+
+}
+
+.section-first-container {
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    padding: 20px 200px;
+    justify-content: space-around;
+    background: #FFF;
+}
+
+.img {
+    width: 451px;
+    height: 898px;
+}
+
+.tittle {
+    width: 288px;
+    color: var(--Dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.description {
+    width: 416px;
+    color: var(--Dark-02, #444343);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+    /* 162.5% */
+}
